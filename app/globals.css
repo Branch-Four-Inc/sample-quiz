@@ -75,7 +75,7 @@ body {
   border-color: #111;
 }
 
-.option { # overrides mobile safari default button styles
+.option { 
   -webkit-appearance: none;
   appearance: none;
 }
